@@ -89,6 +89,7 @@
 .yuppy{
     font-size: 30px;
     padding: 20px;
+    display: block;
    
 }
 
@@ -164,4 +165,9 @@
    height: 60px;
    font-size: 20px;
    padding: 30px;
+}
+
+.radiopayment{
+    margin-bottom: 30px;
+    display: flex;
 }
